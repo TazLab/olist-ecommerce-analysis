@@ -28,6 +28,6 @@ SQL (PostgreSQL) · Power BI · Data Cleaning · Data Modeling · Business Analy
 - Delivery delays show a visible link to lower review scores
 
 ## Preview
-![Business Overview](page 1.png)
-![Product & Delivery Performance](page 2.png)
-![Customer & Review Insights](page 3.png)
+![Business Overview](page1.png)
+![Product & Delivery Performance](page2.png)
+![Customer & Review Insights](page3.png)
